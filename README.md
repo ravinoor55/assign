@@ -1,4 +1,4 @@
-# 🌟 weather app
+# 🌟 weather-app
 
 ## 📌 Description
 This is a weather forecast web app built using HTML, CSS, and JavaScript. It fetches real-time weather data using the OpenWeather API and displays the temperature, weather conditions, and location details.
